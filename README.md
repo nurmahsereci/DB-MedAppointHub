@@ -1,2 +1,2 @@
 ﻿# DB-MedAppointHub
-This repository contains the database schema used in the MedAppointHub repo.
+This repository contains the sql files which are used in the MedAppointHub repo.
