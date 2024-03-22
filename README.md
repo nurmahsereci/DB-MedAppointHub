@@ -15,7 +15,6 @@ git clone https://github.com/nurmahsereci/DB-MedAppointHub.git
 ```
 **3. Create Database Schema:**
 - Import the provided SQL script named as 'project_database' into your MySQL Workbench by following path: Server -> Data Import -> Import From Self-Contained File (Browse the project_database.sql file where you downloaded) -> Start Import.
-- Run the statements inside the sql file. 
 
 <details> 
 <summary> Notes:</summary>
