@@ -12,7 +12,7 @@ git clone https://github.com/nurmahsereci/DB-MedAppointHub.git
 
 **2. Create a Local Server:**
 - Open MySQL Workbench
-- Set up a new connection: In MySQL Workbench, click on the "+" icon next to "MySQL Connections" to set up a new connection. Enter the necessary connection details such as connection name, hostname ("localhost"), port ("3306"), username ("root"), and the password you set during MySQL installation.
+- Set up a new connection: In MySQL Workbench, click on the "+" icon next to "MySQL Connections" to set up a new connection. Enter the necessary connection details as connection name, hostname ("localhost"), port ("3306"), username ("root"), and the password you set during MySQL installation.
 
 **3. Import Database Schema:**
 - Import the provided SQL script named as 'project_database' into your MySQL Workbench by following path: Server -> Data Import -> Import From Self-Contained File (Browse the project_database.sql file where you downloaded) -> Start Import.
